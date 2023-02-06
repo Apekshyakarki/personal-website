@@ -135,3 +135,18 @@
 .contains .section-3 i:hover{
     color: #6f34fe;
 }
+.qualification__title{
+    font-size: var(--normal-font);
+    font-weight: var(--font-medium);
+  }
+  .about__info{
+    justify-content: space-evenly;
+    margin-bottom: var(--mb-2-5);
+    transform: .3s;
+  }
+  .contains__hobbies{
+    display: inline-flex;
+  }
+  .services__title{
+    text-align: center;
+  }
